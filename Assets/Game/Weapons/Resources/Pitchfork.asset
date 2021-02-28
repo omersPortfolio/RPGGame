@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce332648c39437b44a1e2ffa68b5c366, type: 3}
+  m_Name: Pitchfork
+  m_EditorClassIdentifier: 
+  animatorOverride: {fileID: 22100000, guid: 34597477d238a324e9c2b615f4d3d440, type: 2}
+  equippedPrefab: {fileID: 7953003479649105667, guid: b1f7441fe29a3a245a3838ad20ffaf2d,
+    type: 3}
+  weaponDamage: 6
+  percentageBonus: 0
+  weaponRange: 1.5
+  isRightHanded: 1
+  projectile: {fileID: 0}
